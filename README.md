@@ -15,4 +15,4 @@ This app mimics teachertap.appspot.com with as iOS app using AWS for the backend
 
 Download the zip file
 Next, unzip and open the Stock3.xcodeproj file
-This will open up Xcode. Run the program and *violoa!* 
+This will open up Xcode. Run the program and *voila!* 
